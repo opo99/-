@@ -1,0 +1,117 @@
+.menu a{
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+}
+.menu{
+    background-color: mediumseagreen;
+    text-align: center ;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    height: 21px;
+}
+body{
+    margin: 0 0;
+}
+.header{
+    text-align: center;
+    background-image:url(img/background.jpg);
+    background-size: cover;
+    width: 100%;
+    margin-top: 5px;
+}
+.header h1{
+    padding: 250px 0;
+}
+.header p{
+    text-align:right;
+}
+.facts{
+    background-color: mediumseagreen;
+margin-top: -20px;
+    padding: 40px 3px;
+}
+.facts h2{
+    text-align: center;
+    color: crimson;
+    text-decoration: underline;
+}
+.facts li{
+    margin: 15px 0;
+}
+.li{
+   font-weight: bold; 
+}
+.lu{
+    font-style:italic;
+}
+.cats{
+    display: inline-block;
+    margin: 10px 10px;
+    
+}
+.Galleri{
+    text-align: center;
+}
+.c1t{
+   border-color: red;
+    border-width: 2px;
+    border-style: solid;
+}
+.c2t{
+   border-color: blue;
+    border-width: 2px;
+    border-style: solid;
+}
+.c3t{
+   border-color: green;
+    border-width: 2px;
+    border-style: solid;
+}
+.c4t{
+   border-color: yellow;
+    border-width: 2px;
+    border-style: solid;
+}
+.contakt{
+    text-align: center;
+        background-color: mediumseagreen;
+   
+    width: 100%;
+}
+form{
+     border-color: greenyellow;
+    border-width: 3px;
+    border-style:solid;
+    width: 40%;
+    margin:0 auto;
+    text-align: center;
+    padding: 10px;
+}
+.contakt select, .contact textaria{
+    display: block;
+    width:50%;
+    
+}
+.input{
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 9px;
+    border-radius: 9px;
+    
+}
+.inpit{
+    padding: 10px 20px;
+    color: black;
+    background-color: crimson;
+}
+.inpit:hover{
+
+ background-color: black;
+color: crimson;
+}
+.ghg{
+    color: crimson;
+}
